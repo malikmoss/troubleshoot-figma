@@ -1,11 +1,11 @@
-.troubleshoot-abr-edge-cases {
+/* edgeCaseContainer {
   align-items: flex-start;
   background-color: var(--white);
   display: flex;
   height: 1196px;
   min-width: 600px;
-}
-
+} */
+/* 
 .overlap-group1-1 {
   align-items: flex-start;
   background-color: var(--pattens-blue);
@@ -15,143 +15,143 @@
   min-height: 1196px;
   padding: 44px 20px;
   width: 438px;
+} */
+
+/* overlapGroup21: {
+  height: '92px',
+  position: 'relative',
+  width: '366px',
+}, */
+
+/* mainHeader: {
+  height: '91px',
+  left: 0,
+  letter-spacing: 0,
+  position: 'absolute',
+  top: 0,
+  width: '366px',
+} */
+
+/* graphTabs1 {
+  align-items: 'flex-start',
+  display: 'flex',
+  height: '13px',
+  left: 0,
+  minWidth: '299px',
+  position: 'absolute',
+  top: '79px',
 }
 
-.overlap-group2-1 {
-  height: 92px;
-  position: relative;
-  width: 366px;
+productRequirements1: {
+  height: '13px',
+  letterSpacing: 0,
+  width: '103px',
+} */
+
+/* overlapGroup1: {
+  height: '13px',
+  marginLeft: '3px',
+  position: 'relative',
+  width: '187px',
 }
 
-.what-can-we-help-you-with-1 {
-  height: 91px;
-  left: 0;
-  letter-spacing: 0;
-  position: absolute;
-  top: 0;
-  width: 366px;
+.apiIntegraton1: {
+  height: 13px,
+  left: 78px,
+  letterSpacing: 0,
+  position: absolute,
+  top: 0,
+  width: 109px,
+} */
+
+/* abrEdgeCases1: {
+  height: '13px',
+  left: 0,
+  letter-spacing: 0,
+  position: 'absolute',
+  top: 0,
+  width: '115px',
+} */
+
+/* autoBracketRemovalEdgeCases: {
+  height: '19px',
+  letterSpacing: 0,
+  marginTop: '19px',
+  width: '366px',
+} */
+
+/* abrWorksWellOnR: {
+  height: '30px',
+  letter-spacing: 0,
+  margin-top: '16px',
+  width: '355px',
+} */
+
+/* flexRow3: {
+  alignItems: 'flex-start',
+  display: 'flex',
+  marginTop: '6px',
+  minWidth: '366px',
+} */
+
+/* rectangle {
+  background-color: 'var(--mist-gray)',
+  height: '94px',
+  width: '177px',
 }
 
-.graph-tabs-1 {
-  align-items: flex-start;
-  display: flex;
-  height: 13px;
-  left: 0;
-  min-width: 299px;
-  position: absolute;
-  top: 79px;
+rectangle1 {
+  backgroundColor: 'var(--mist-gray)',
+  height: '94px',
+  marginLeft: '12px',
+  width: '177px',
+} */
+
+/* onBracketsThatInt {
+  height: '30px',
+  letterSpacing: 0,
+  marginTop: '20px',
+  width: '355px',
 }
 
-.product-requirements-1 {
-  height: 13px;
-  letter-spacing: 0;
-  width: 103px;
+flexRow4: {
+  alignItems: 'flex-start',
+  display: 'flex',
+  min-width: '366px',
 }
 
-.overlap-group-1 {
-  height: 13px;
-  margin-left: 3px;
-  position: relative;
-  width: 187px;
+ifNeeded: {
+  height: '30px',
+  letterSpacing: 0,
+  marginTop: '6px',
+  width: '355px',
 }
 
-.api-integration-1 {
-  height: 13px;
-  left: 78px;
-  letter-spacing: 0;
-  position: absolute;
-  top: 0;
-  width: 109px;
+scanQuality: {
+  height: '46px',
+  letterSpacing: 0,
+  marginTop: '24px',
+  width: '381px',
 }
 
-.abr-edge-cases-1 {
-  height: 13px;
-  left: 0;
-  letter-spacing: 0;
-  position: absolute;
-  top: 0;
-  width: 115px;
+flexRow5: {
+  alignItems: 'flex-start',
+  display: 'flex',
+  marginTop: '5px',
+  minWidth: '366px',
 }
 
-.auto-bracket-removal-edge-cases {
-  height: 19px;
-  letter-spacing: 0;
-  margin-top: 19px;
-  width: 366px;
+excessMaterials: {
+  height: '30px',
+  letterSpacing: 0,
+  marginTop: '30px',
+  width: '355px',
 }
 
-.abr-works-well-on-ar {
-  height: 30px;
-  letter-spacing: 0;
-  margin-top: 16px;
-  width: 355px;
-}
-
-.flex-row-3 {
-  align-items: flex-start;
-  display: flex;
-  margin-top: 6px;
-  min-width: 366px;
-}
-
-.rectangle {
-  background-color: var(--mist-gray);
-  height: 94px;
-  width: 177px;
-}
-
-.rectangle-1 {
-  background-color: var(--mist-gray);
-  height: 94px;
-  margin-left: 12px;
-  width: 177px;
-}
-
-.on-brackets-that-int {
-  height: 30px;
-  letter-spacing: 0;
-  margin-top: 20px;
-  width: 355px;
-}
-
-.flex-row-4 {
-  align-items: flex-start;
-  display: flex;
-  min-width: 366px;
-}
-
-.if-needed-for-your-d {
-  height: 30px;
-  letter-spacing: 0;
-  margin-top: 6px;
-  width: 355px;
-}
-
-.scan-quality-also-af {
-  height: 46px;
-  letter-spacing: 0;
-  margin-top: 24px;
-  width: 381px;
-}
-
-.flex-row-5 {
-  align-items: flex-start;
-  display: flex;
-  margin-top: 5px;
-  min-width: 366px;
-}
-
-.excess-material-such {
-  height: 30px;
-  letter-spacing: 0;
-  margin-top: 30px;
-  width: 355px;
-}
-
-.too-many-teeth-missi {
-  height: 232px;
-  letter-spacing: 0;
-  margin-top: 30px;
-  width: 355px;
-}
+tooManymissing {
+  height: '232px',
+  letterSpacing: 0,
+  marginTop: '30px',
+  width: '355px', */
+/* } */
 
