@@ -7,6 +7,7 @@ import stockPhoto from '../../stockphoto.jpg'
 
 
 function TroubleshootProductRequirements(props) {
+  const classes = useStyles()
   const {
     spanText1,
     spanText2,
